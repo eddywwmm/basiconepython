@@ -1,0 +1,2 @@
+# basiconepython
+Belajar Python Pemula
